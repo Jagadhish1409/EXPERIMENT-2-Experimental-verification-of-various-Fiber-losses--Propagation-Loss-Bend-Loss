@@ -20,24 +20,13 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Setup for 660nm and 950nm measurements  
 - Measure output voltages for 1m and 3m fibers  
 - Calculate attenuation \( a \) using:  
-V1/V2 = e [ -a (L1+L2 ) ] 
+V1/V2 = e [ -a (L1+L2 ) ]
 - Bend fiber and record output vs diameter  
 
 **Tabulation:**
-
-### Propagation Loss
-
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
-
-### Bending Loss
-
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
+ ![20251117_163051](https://github.com/user-attachments/assets/17b67672-82fa-4cbf-879d-ef1d6168d2d3)
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
 
----
+
